@@ -1,2 +1,3 @@
 # neuro_sys_simulation
-Course projects for neurological systems simulation. 
+Course assignments/projects for neurological systems simulation. 
+Self-documentation purpose only. 
